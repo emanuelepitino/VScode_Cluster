@@ -39,7 +39,8 @@ Before we begin, make sure you have VScode installed in your local machine
     ```
 3. Follow the instructions to authenticate with GitHub
 
-4. On your local machine, open the Command Palette (Ctrl+Shift+P) and search for "Remote-tunnels: Connect to tunnel".
+4. On your local machine, open the Command Palette (Ctrl+Shift+P) and search for "Remote-tunnels: Connect to tunnel". You can also click on the blue button "><" on the bottom-left of the interface.
+
 
  VScode will establish a secure connection to the VScode Server running in the HPC cluster through GitHub.
 
