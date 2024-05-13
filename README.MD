@@ -44,6 +44,7 @@ Before we begin, make sure you have VScode installed in your local machine
  VScode will establish a secure connection to the VScode Server running in the HPC cluster through GitHub.
 
 ## Conclusion
+You will be promped for authentication with GitHub every time you start a new tunnel. It might be possible to avoid this using an ssh key, but I have not found a solution for that yet.
 The main advantage of using VScode Server is that you can integrate it with Github copilot to get code suggestions and completions. You can have a free subscription to Copilot if you are a student or have a Github Pro account.
 
 ## Additional Resources
